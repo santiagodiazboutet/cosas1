@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523399371 source:c:\test\sboutet\cadena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
