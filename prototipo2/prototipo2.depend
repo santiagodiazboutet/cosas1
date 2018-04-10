@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522183943 source:c:\test\sboutet\prototipo2\main.c
+	<stdio.h>
+	<stdlib.h>
+
